@@ -5,6 +5,4 @@ Hi, My name is Oleg. I am a **Software Developer** who is focused on developing 
 
 
 
-**WEBSITE**: • [Portfolio](https://olegyadroshnikov.com/) 
-
-**CONTACTS**: • [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) • [E-mail](contact@olegyadroshnikov.com)
+___ **WEBSITE**: • [Portfolio](https://olegyadroshnikov.com/) ___ **CONTACTS**: • [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) • [E-mail](contact@olegyadroshnikov.com)
