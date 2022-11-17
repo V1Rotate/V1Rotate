@@ -5,8 +5,4 @@ Hi, My name is Oleg and I am a **Software Developer**, **DIY Mechanic** solving 
 
 
 
-**CONTACTS**:
-
-• [Portfolio](https://olegyadroshnikov.com/)
-• [LinkedIn](https://www.linkedin.com/in/yadroshnikov/)
-• [E-mail](contact@olegyadroshnikov.com)
+**CONTACTS**: • [Portfolio](https://olegyadroshnikov.com/) • [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) • [E-mail](contact@olegyadroshnikov.com)
