@@ -1,4 +1,5 @@
 Hi, My name is Oleg and I am a **Software Developer**, **DIY Mechanic** solving my cars issues and a **Creative Ideas Generator**.
+
 I am focused on developing responsive front-end web applications with back-end technologies integration that exceed users expectations.
 
 ![Oleg Yadroshnikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1Rotate&hide=issues,contribs,prs&show_icons=true&theme=synthwave&count_private=true)
