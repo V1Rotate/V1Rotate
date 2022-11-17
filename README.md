@@ -1,8 +1,8 @@
-**Hi, My name is Oleg. 
+**Hi, My name is Oleg.** 
 
-**I am a Software Developer who is focused on developing responsive front-end web applications with back-end technologies integration. Please check my profile and feel free to ask me, if you have any questions. 
+**I am a Software Developer who is focused on developing responsive front-end web applications with back-end technologies integration. Please check my profile and feel free to ask me, if you have any questions.** 
 
-**Thank you for your time.
+**Thank you for your time.**
 
 
 
