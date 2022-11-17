@@ -5,6 +5,6 @@ Hi, My name is Oleg. I am a **Software Developer** who is focused on developing 
 
 
 
-💻 [Portfolio](https://olegyadroshnikov.com/) 
+• 💻 [Portfolio](https://olegyadroshnikov.com/) 
 • 🔽 [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) 
 • 📨 [E-mail](contact@olegyadroshnikov.com)
