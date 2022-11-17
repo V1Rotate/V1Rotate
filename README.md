@@ -4,6 +4,9 @@
 
 **Thank you for your time.**
 
+• 💻 [Portfolio](https://olegyadroshnikov.com/) 
+• 🔽 [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) 
+• 📨 [E-mail](contact@olegyadroshnikov.com)
 
 
 ![Oleg Yadroshnikov's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1Rotate&hide=issues,contribs,prs&show_icons=true&theme=tokyonight&count_private=true)
@@ -11,6 +14,4 @@
 
 
 
-• 💻 [Portfolio](https://olegyadroshnikov.com/) 
-• 🔽 [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) 
-• 📨 [E-mail](contact@olegyadroshnikov.com)
+
