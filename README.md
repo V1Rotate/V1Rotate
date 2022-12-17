@@ -11,6 +11,11 @@
 • 📨 [E-mail](contact@olegyadroshnikov.com)
 
 
+![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOPE028&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOPE028&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
