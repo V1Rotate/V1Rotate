@@ -11,7 +11,7 @@
 • 📨 [E-mail](contact@olegyadroshnikov.com)
 
 
-![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1Rotate&&hide=stars,prs,issues,contribs)
+![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1Rotate&&hide=stars,prs,issues,contribs&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1Rotate&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
