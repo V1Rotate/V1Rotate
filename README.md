@@ -4,9 +4,9 @@
 
 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐜𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞.
 
-• 💻 [Portfolio](https://olegyadroshnikov.com/) 
+
 • 🔽 [LinkedIn](https://www.linkedin.com/in/yadroshnikov/) 
-• 📨 [E-mail](contact@olegyadroshnikov.com)
+
 
 
 ![Oleg's GitHub stat](https://github-readme-stats.vercel.app/api?username=v1Rotate&&hide=stars,prs,issues,contribs&theme=radical&count_private=true)
